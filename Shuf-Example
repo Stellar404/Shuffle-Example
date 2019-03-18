@@ -1,0 +1,14 @@
+#
+# -- Example of the shuf command in CLI --
+#
+
+# You will need a file or .txt file to read from
+
+----------------------------
+
+shuf -n 1 randomlist
+
+----------------------------
+
+# Enter N as the number of lines you want to be pulled
+
